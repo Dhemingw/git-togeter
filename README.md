@@ -21,8 +21,13 @@
 * use flag command for more specific commit history.
 
 
-#### git add
+#### git add 
+* The git add command relays that you are creating, adding or changing a file in the repo.
+* Acts as a staging area.
 
 #### git commit
+* This command saves your changes in your local repository.
 
 #### git push
+* This reflects and posts your changes to the main repo where it can be pulled for someone else to work on.
+* Finalizes changes from local repo
