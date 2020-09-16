@@ -21,8 +21,16 @@
 >* use flag command for more specific commit history.
 
 
-#### git add
+#### git add 
+![image-gitadd](https://cdn.edureka.co/blog/wp-content/uploads/2016/11/Git-Add-All-Git-Tutorial-Edureka.png)
+* The git add command relays that you are creating, adding or changing a file in the repo.
+* Acts as a staging area.
 
 #### git commit
+![image-git-commit](https://www.jquery-az.com/wp-content/uploads/2018/07/14.0_4-Git-commit-patch.png)
+* This command saves your changes in your local repository.
 
 #### git push
+![image-gitpush](https://www.ciraltos.com/wp-content/uploads/2019/10/Git-Push-Command.png)
+* This reflects and posts your changes to the main repo where it can be pulled for someone else to work on.
+* Finalizes changes from local repo
