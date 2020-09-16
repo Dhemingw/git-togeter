@@ -22,7 +22,7 @@
 
 
 #### git add 
-![image-gitadd](https://cdn.edureka.co/blog/wp-content/uploads/2016/11/Git-Add-All-Git-Tutorial-Edureka.png)
+![image-gitadd](https://static.javatpoint.com/tutorial/git/images/git-add3.png)
 * The git add command relays that you are creating, adding or changing a file in the repo.
 * Acts as a staging area.
 
