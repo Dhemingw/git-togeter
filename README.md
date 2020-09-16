@@ -17,8 +17,8 @@
 
 #### git log
 ![image-gitlog](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/18.png)
-* It displays the entire commit history using the default format. 
-* use flag command for more specific commit history.
+>* It displays the entire commit history using the default format. 
+>* use flag command for more specific commit history.
 
 
 #### git add
